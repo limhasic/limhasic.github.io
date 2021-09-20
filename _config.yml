@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: KOREA
+  location: "KOREA"
   social: Around the Web
   credits: Credits
 
@@ -44,8 +44,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: KOREA
-  - line: Gang-neung
+  - line: "KOREA"
+  - line: "Gang-neung"
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
